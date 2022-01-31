@@ -113,6 +113,7 @@ var auditScheduler = function () {
 setInterval(function () {
     $(".time-block .description").each(function (index) {
         auditScheduler();
+        displayCurrentDate();
     });
 }, (1000 * 60) * 15);
 
