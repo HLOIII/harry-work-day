@@ -41,21 +41,22 @@ textarea{
   color: #000000;
   border-top: 1px dashed #000000;
   border-left: none;
+  text-align: center;
 }
 
 .past {
   background-color: #d3d3d3;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 .present {
   background-color: #ff6961;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 .future {
   background-color: #77dd77;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 .saveBtn {
