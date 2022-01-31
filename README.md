@@ -12,3 +12,8 @@
 ## User Story
 
 As an employee with a busy schedule, I want to add important events to a daily planner, so that I can manage my time effectively.
+
+## Link to Deployed Application
+https://hloiii.github.io/harry-work-day/
+
+![screenshot](assets/images/screenshot.PNG)
